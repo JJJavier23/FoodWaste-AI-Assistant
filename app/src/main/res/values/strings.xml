@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FruitScan</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="captured_image">Captured Image</string>
+    <string name="welcome_message">Welcome</string>
+    <string name="select_image">Select Image</string>
+    <string name="switch_to_tomato">Switch to Tomato</string>
+    <string name="switch_to_banana">Switch to Banana</string>
+</resources>
