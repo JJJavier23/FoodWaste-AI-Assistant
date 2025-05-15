@@ -2,7 +2,7 @@
 
 FoodWaste AI Assistant is an Android application designed to assist users in managing and reducing food waste. Leveraging Qualcomm's AI-Hub AI Models, the app aims to provide intelligent suggestions and tracking to promote sustainable food consumption habits.
 
-Features
+**Features**
 
 AI-Powered Recommendations: Utilizes machine learning to offer personalized suggestions for reducing food waste.
 User-Friendly Interface: Designed with a focus on simplicity and ease of use for a seamless user experience.
